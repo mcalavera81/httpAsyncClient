@@ -1,4 +1,4 @@
-package com.alienvault.domain;
+package com.root.domain;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

@@ -1,7 +1,7 @@
-package com.alienvault.http;
+package com.root.http;
 
-import com.alienvault.domain.IssuesPage;
-import com.alienvault.parser.ResponseParser;
+import com.root.domain.IssuesPage;
+import com.root.parser.ResponseParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.asynchttpclient.AsyncHttpClient;
 

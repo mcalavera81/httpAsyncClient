@@ -1,4 +1,4 @@
-package com.alienvault.domain;
+package com.root.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

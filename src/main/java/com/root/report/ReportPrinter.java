@@ -1,8 +1,8 @@
-package com.alienvault.report;
+package com.root.report;
 
-import com.alienvault.domain.Issue;
-import com.alienvault.domain.IssuesMostFrequentDay;
-import com.alienvault.domain.Report;
+import com.root.domain.Issue;
+import com.root.domain.IssuesMostFrequentDay;
+import com.root.domain.Report;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.time.LocalDate;
